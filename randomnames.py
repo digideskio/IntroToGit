@@ -2,7 +2,8 @@ import random
 import os
 
 def generate_random_names(count):
-    first_names = ["Drew", "Mike", "Landon", "Jeremy", "Tyler", "Tom", "Avery"]
+    first_names = ["Drew", "Mike", "Landon", "Jeremy", "Tyler", "Tom", "Avery",
+                   "Sarah", "Clare", "Jennifer"]
     last_names = ["Smith", "Jones", "Brighton", "Taylor"]
     for filename in os.listdir(os.path.join(os.getcwd(), "names")):
         split_names = filename.split()
