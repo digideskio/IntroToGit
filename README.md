@@ -3,7 +3,7 @@ Helpdesk intro to git
 
 # Workshop Help
 
-- First, fork the repo. See that green button that says fork? Press that.
+- First, fork the repo. See that button that says fork? Press that.
 
 - Okay, so now you have your very own git repo! How can you get that repo 
  on your account? Well you've got to **`clone`** the repo.
@@ -12,7 +12,7 @@ Helpdesk intro to git
  
  There should be a url that looks like this: 
 
-     https://github.com/<username>/IntroToGit.git
+     https://github.com/$username/IntroToGit.git
   
  On your terminal, run a `git clone` command, like so:
 
@@ -24,4 +24,5 @@ Helpdesk intro to git
 
 - Git will download the files and place them in a new directory, called 
 `IntroToGit`
+
 
