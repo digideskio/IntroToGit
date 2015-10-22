@@ -9,7 +9,7 @@ def generate_random_names(count):
         first_names.append(split_names[0])
         last_names.append(split_names[1])
     output_names = []
-    for i in range(count):
+    for i in range(count - 1):
         first_name = random.choice(first_names)
         last_name = random.choice(last_names)
         output_names.append(first_name + " " + last_name)
