@@ -25,4 +25,13 @@ Helpdesk intro to git
 - Git will download the files and place them in a new directory, called 
 `IntroToGit`
 
+- It's good practice to have a separate branch for each new feature, so create one now.
 
+- On that branch, make your changes. Add a new file in `names/` with your name.
+
+- Stage your changes and commit them.
+
+- Now push them up to your fork.
+
+- Once you've done that, click the button that says "Compare and pull request",
+and create a pull request to add your changes to the Redbrick repo.
