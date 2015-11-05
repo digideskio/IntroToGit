@@ -1,5 +1,5 @@
 # IntroToGit
-Helpdesk intro to git 
+[![Build Status](https://travis-ci.org/RazoftOSS/Arbiter.svg?branch=feature%2Fswiss-pairing-dutch)](https://github.com/redbrick/IntroToGit)
 
 # Workshop Help
 
