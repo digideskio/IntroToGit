@@ -1,5 +1,5 @@
 # IntroToGit
-Helpdesk intro to git 
+[![Build Status](https://travis-ci.org/RazoftOSS/Arbiter.svg?branch=feature%2Fswiss-pairing-dutch)](https://github.com/redbrick/IntroToGit)
 
 # Workshop Help
 
@@ -35,3 +35,8 @@ Helpdesk intro to git
 
 - Once you've done that, click the button that says "Compare and pull request",
 and create a pull request to add your changes to the Redbrick repo.
+
+# Workshop Stretch Goals #
+
+If you've managed to do all that, try and figure out why our tests are failing and file a
+Pull Request to fix them. `git bisect` might help you find out when it failed.
